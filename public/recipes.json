@@ -1,0 +1,105 @@
+[
+    {
+        "recipe_image": "https://i.ibb.co/JjHX1Jb/pexels-chan-walrus-958545.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Pan-Seared Chicken with Basil",
+        "short_description": "A quick and flavorful dish perfect for a weeknight meal.",
+        "ingredients": [
+        "550 g chicken breasts",
+        "120 ml soy sauce",
+        "2 tbsp olive oil",
+        "2 cloves garlic, minced",
+        "200 g fresh basil leaves",
+        "400 g sliced mushrooms",
+        "Salt and pepper to taste"
+        ],
+        "preparing_time": 30,
+        "calories": 320
+      },
+      {
+        "recipe_image": "https://i.ibb.co/gb0mbhk/img-2.webp",
+        "recipe_id": 2,
+        "recipe_name": "Creamy Tomato Pasta",
+        "short_description": "A satisfying vegetarian pasta with a rich and creamy tomato sauce.",
+        "ingredients": [
+        "400 g dried pasta",
+        "1 can (400g) chopped tomatoes",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 tbsp olive oil",
+        "200 ml heavy cream",
+        "1 cup grated parmesan cheese",
+        "Fresh basil leaves, for garnish"
+        ],
+        "preparing_time": 20,
+        "calories": 450
+      },
+      {
+        "recipe_image": "https://i.ibb.co/g9rng4W/img-3.webp",
+        "recipe_id": 3,
+        "recipe_name": "Cheesy Baked Broccoli",
+        "short_description": "A healthy and comforting side dish with a cheesy topping.",
+        "ingredients": [
+        "1 head broccoli, cut into florets",
+        "1 cup grated cheddar cheese",
+        "1/2 cup breadcrumbs",
+        "2 tbsp melted butter",
+        "1/4 cup milk",
+        "1/4 tsp garlic powder",
+        "Salt and pepper to taste"
+        ],
+        "preparing_time": 25,
+        "calories": 250
+      },
+      {
+        "recipe_image": "https://i.ibb.co/9vh0LHb/img-4.webp",
+        "recipe_id": 4,
+        "recipe_name": "Spicy Black Bean Burgers",
+        "short_description": "A delicious and protein-packed vegetarian burger option.",
+        "ingredients": [
+        "1 can (400g) black beans", 
+        "1 cup cooked brown rice",
+        "1/2 cup chopped red onion",
+        "1/4 cup chopped cilantro",
+        "1 egg, beaten",
+        "1 tbsp olive oil",
+        "1 tsp chili powder",
+        "1/2 tsp cumin"
+        ],
+        "preparing_time": 30,
+        "calories": 350
+    },
+    {
+        "recipe_image": "https://i.ibb.co/fvFTNKQ/img-5.webp",
+        "recipe_id": 5,
+        "recipe_name": "Easy Lemon Garlic Salmon",
+        "short_description": "Simple yet flavorful salmon dish baked with lemon and garlic.",
+        "ingredients": [
+        "2 salmon fillets",
+        "1 lemon, sliced",
+        "2 cloves garlic, minced",
+        "2 tbsp olive oil",
+        "Salt and pepper to taste",
+        "Fresh parsley, for garnish (optional)"
+        ],
+        "preparing_time": 20,
+        "calories": 400
+    },
+    {
+        "recipe_image": "https://i.ibb.co/vqVNC24/img-6.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Chocolate Chip Cookies",
+        "short_description": "A classic chewy chocolate chip cookie recipe.",
+        "ingredients": [
+        "1 cup (2 sticks) unsalted butter, softened",
+        "1 cup granulated sugar",
+        "2 large eggs",
+        "2 tsp pure vanilla extract",
+        "2 1/4 cups all-purpose flour",
+        "1 tsp baking soda",
+        "1 tsp salt"
+        ],
+        "preparing_time": 22,
+        "calories": 450
+    }
+]
